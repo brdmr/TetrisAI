@@ -94,5 +94,3 @@ class TD:
         #worlds = self.getWorlds(world, rots);
         return rots
 
-
-
